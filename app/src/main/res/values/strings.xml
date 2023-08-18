@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ExerciciosPAM</string>
+    <string name="activity_ex1">Exercício 1</string>
+    <string name="btn_Ex1"> Exercício 1</string>
+    <string name="btn_Ex6">Exercício 6</string>
+    <string name="txt_Exercicios">Exercícios de fixação</string>
+    <string name="txt_Num1">Digite um número:</string>
+    <string name="txt_Num2">Digite outro número:</string>
+    <string name="bnt_calcula">Calcular</string>
+    <string name="bnt_voltar">Voltar</string>
+    <string name="resultado">Resultado:</string>
+    <string name="txt_enunciado2">Digite a quantidade de refrigerantes:</string>
+    <string name="txt_enunciado1">Digite a quantidade de Cachorros quentes:</string>
+    <string name="txt_enunciado3">Digite a quantidade de sobremesa:</string>
+    <string name="txt_recebeC">Cachorro quente</string>
+    <string name="txt_recebeR">Refrigerante</string>
+    <string name="txt_recebeS">Sobremesa</string>
+</resources>
