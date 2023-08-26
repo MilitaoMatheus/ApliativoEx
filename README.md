@@ -134,9 +134,13 @@ O git remote add origin https://github/user_name/repositorio_name é usado como 
 
 <br>
 
+
 - ### git push -u origin main <br>
 ![cod8](https://github.com/MilitaoMatheus/ApliativoEx/assets/127455174/8a6c76bf-8f49-494b-a06f-14db194cfc9e)
 
 ```
 É utilizado para enviar as alterações feitas para o repositório
 ```
+
+## LINK DO VÍDEO 
+https://youtube.com/shorts/S-7uz6vbe0s?si=_jBMZDGU0D5wPXpK
